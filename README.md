@@ -2,7 +2,7 @@
 
 O objetivo desta atividade é explorar na prática os conceitos de computação em nuvem utilizando os serviços **AWS Elastic Compute Cloud (EC2)** e **AWS EC2 Elastic Load Balancing**.
 
-O Amazon EC2 pode ser utilizado para hospedar quaisquer aplicações, tais como aplicações web, aplicações MiddleWare, aplicações de banco de dados, jogos, aplicações empresariais, entre outras.
+O Amazon EC2 pode ser utilizado para hospedar qu aisquer aplicações, tais como aplicações web, aplicações MiddleWare, aplicações de banco de dados, jogos, aplicações empresariais, entre outras.
 
 O Elastic Load Balancing (ELB) distribui automaticamente o tráfego de aplicações de entrada entre vários destinos em uma ou mais Zonas de disponibilidade (AZs).
 
